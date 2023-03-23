@@ -1,6 +1,7 @@
-![Calculadora em python](https://user-images.githubusercontent.com/13538814/227253081-9036f887-16c6-4909-8c42-fdcedaba0757.png)
+
 # 📟 Calculadora
-<img src="https://raw.githubusercontent.com/Aclelino/calculadora/main/Captura%20de%20tela%20de%202023-03-15%2013-06-22.png">
+
+![Calculadora em python](https://user-images.githubusercontent.com/13538814/227253081-9036f887-16c6-4909-8c42-fdcedaba0757.png)
 # 📝 Descrição
 
 projeto desenvolvido para aprimoramento tecnica na programação
